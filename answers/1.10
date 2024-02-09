@@ -1,0 +1,2 @@
+docker exec -it mycontainer /bin/sh
+docker run -it novasustv/myflaskapp:latest /bin/sh
